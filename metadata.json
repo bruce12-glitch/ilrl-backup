@@ -1,0 +1,6 @@
+{
+  "name": "ILRL — Inference in Loops and Recurrence Learning Labs",
+  "description": "ILRL works on LLM inference, ML systems, and computer science algorithms. Explore our research, interests in AGI, future goals, and members.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
